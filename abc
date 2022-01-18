@@ -1,0 +1,7 @@
+1. Tổng Quan Về Đồ Án
+•	Ngữ cảnh ứng dụng:
+o	Ở Việt Nam, giao thông đường bộ là loại hình giao thông phổ biến và phát triển nhất. Tính đến năm 2019, tổng số xe máy đăng kí của Việt Nam là khoảng 62 triệu chiếc. Cùng với sự gia tăng số lượng phương tiện nhanh chóng, hệ thống đường xá cũng liên tục được nâng cấp. Trong khi người dân tham gia giao thông, có những lúc bị xao nhãng, không chú ý đến những biển báo bên đường. Chính những thiếu sót đó có thể bị phạt hay dẫn đến tai nạn không mong muốn. Để khắc phục vấn đề này, chúng em đề xuất một hệ thống nhận diện biển báo ngay trong lúc tham gia giao thông. Ứng dụng sẽ chụp ảnh từ camera điện thoại, sau đó dùng mô hình máy học để nhận diện biển báo và thông báo đến người tham gia giao thông.
+o	Đối tượng sử dụng là người điều khiển xe máy, có trang bị:
+	Điện thoại di động, ảnh chụp từ điện thoại có kích thước 1920x1080.
+	Giá đỡ điện thoại gắn trên xe máy. 
+
